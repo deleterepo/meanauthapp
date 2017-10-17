@@ -14,6 +14,8 @@ npm install
 ```bash
 npm start
 ```
+By default app will start on http://localhost:3001/
+
 
 ## Endpoints
 ```bash
